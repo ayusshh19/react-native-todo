@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "todoapp",
-    "slug": "todoapp",
+    "slug": "my-project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "695b4f05-5b6d-4433-baf3-ce608d1280f3"
+      }
+    },
+    "owner": "ayusshh1907"
   }
 }
